@@ -8,5 +8,5 @@
 2. [Програми фінансування](https://github.com/tapas-opendata/LegislationRegister/blob/master/programmes.md)
 3. [Зразки документів](https://github.com/tapas-opendata/LegislationRegister/blob/master/templates.md)
 5. [Політика відкритих даних 101](https://github.com/tapas-opendata/LegislationRegister/blob/master/guides.md)
-6. [Портали відкритих даних](https://github.com/tapas-opendata/LegislationRegister/blob/master/portals.md)
+6. [Місцеві портали відкритих даних](https://github.com/tapas-opendata/LegislationRegister/blob/master/portals.md)
 7. [Матеріали в медіа](https://github.com/tapas-opendata/LegislationRegister/blob/master/mediaPublications.md)
