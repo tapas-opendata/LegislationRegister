@@ -20,3 +20,5 @@
 5. [Політика відкритих даних 101](https://github.com/tapas-opendata/LegislationRegister/blob/master/guides.md)
 6. [Місцеві портали відкритих даних](https://github.com/tapas-opendata/LegislationRegister/blob/master/portals.md)
 7. [Матеріали в медіа](https://github.com/tapas-opendata/LegislationRegister/blob/master/mediaPublications.md)
+
+Вміст документу ліцензовано на умовах [Ліцензії Creative Commons Зазначення Авторства 4.0 Міжнародна](https://creativecommons.org/licenses/by/4.0/).
